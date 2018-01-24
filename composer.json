@@ -1,0 +1,21 @@
+{
+    "name": "kevinpapst/kimai2-invoice",
+    "type": "symfony-bundle",
+    "description": "Additional invoice templates for Kimai 2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Papst",
+            "email": "kpapst@gmx.net",
+            "homepage": "https://www.kevinpapst.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1",
+        "symfony/framework-bundle": "^4.0"
+    },
+    "autoload": {
+        "psr-4": { "Kimai\\Invoice\\": "" }
+    }
+}
