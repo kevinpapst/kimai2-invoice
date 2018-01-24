@@ -2,3 +2,5 @@ kimai:
     invoice:
         renderer:
             short: 'Kimai\Controller\InvoiceRendererController::shortAction'
+        number_generator:
+            random: 'App\Invoice\RandomNumberGenerator'
