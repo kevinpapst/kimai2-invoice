@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file date="2018-01-24T20:00:00Z" source-language="en" target-language="en" datatype="plaintext" original="none">
+        <body>
+            <trans-unit id="invoice_renderer.short">
+                <source>invoice_renderer.short</source>
+                <target>Short Invoice</target>
+            </trans-unit>
+            <trans-unit id="invoice_number_generator.random">
+                <source>invoice_number_generator.random</source>
+                <target>Random number (only for testing)</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
