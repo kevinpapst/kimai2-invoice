@@ -12,6 +12,7 @@
 namespace Kimai\Invoice;
 
 use App\Model\InvoiceModel;
+use App\Invoice\NumberGeneratorInterface;
 
 /**
  * Class RandomNumberGenerator is meant for testing purpose only.

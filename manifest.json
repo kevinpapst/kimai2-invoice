@@ -6,6 +6,6 @@
     "config/": "%CONFIG_DIR%/"
   },
   "composer-scripts": {
-    "cache:clear": "symfony-cmd",
+    "cache:clear": "symfony-cmd"
   }
 }
