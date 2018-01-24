@@ -27,7 +27,7 @@ class InvoiceRendererController extends Controller
      */
     public function shortAction($model)
     {
-        return $this->render('@KimaiInvoiceBundle/invoice/short.html.twig', [
+        return $this->render('@KimaiInvoice/invoice/short.html.twig', [
             'model' => $model,
         ]);
     }
