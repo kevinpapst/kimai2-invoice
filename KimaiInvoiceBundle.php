@@ -1,6 +1,6 @@
 <?php
 
-namespace Kimai\Invoice;
+namespace Keleo\KimaiInvoice;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\HttpKernel\Bundle\Bundle;

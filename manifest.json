@@ -1,6 +1,6 @@
 {
   "bundles": {
-    "Kimai\\Invoice\\KimaiInvoiceBundle": ["all"]
+    "Keleo\\KimaiInvoice\\KimaiInvoiceBundle": ["all"]
   },
   "copy-from-recipe": {
     "config/": "%CONFIG_DIR%/"

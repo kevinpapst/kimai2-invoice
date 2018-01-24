@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Kimai\Controller;
+namespace Keleo\KimaiInvoice\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 

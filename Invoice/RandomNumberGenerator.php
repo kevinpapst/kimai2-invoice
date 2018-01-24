@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Kimai\Invoice;
+namespace Keleo\KimaiInvoice\Invoice;
 
 use App\Model\InvoiceModel;
 use App\Invoice\NumberGeneratorInterface;
