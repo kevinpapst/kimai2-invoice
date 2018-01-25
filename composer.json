@@ -16,6 +16,6 @@
         "symfony/framework-bundle": "^4.0"
     },
     "autoload": {
-        "psr-4": { "Kimai\\Invoice\\": "" }
+        "psr-4": { "Keleo\\KimaiInvoice\\": "" }
     }
 }

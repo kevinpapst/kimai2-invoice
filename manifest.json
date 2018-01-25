@@ -1,11 +1,11 @@
 {
   "bundles": {
-    "Kimai\\Invoice\\KimaiInvoiceBundle": ["all"]
+    "Keleo\\KimaiInvoice\\KimaiInvoiceBundle": ["all"]
   },
   "copy-from-recipe": {
     "config/": "%CONFIG_DIR%/"
   },
   "composer-scripts": {
-    "cache:clear": "symfony-cmd",
+    "cache:clear": "symfony-cmd"
   }
 }
