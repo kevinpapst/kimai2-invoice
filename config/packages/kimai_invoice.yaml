@@ -1,6 +1,6 @@
 kimai:
     invoice:
         renderer:
-            Short: 'Keleo\KimaiInvoice\Controller\InvoiceRendererController::shortAction'
+            short: 'Keleo\KimaiInvoice\Controller\InvoiceRendererController::shortAction'
         number_generator:
-            Random: 'Keleo\KimaiInvoice\Invoice\RandomNumberGenerator'
+            random: 'Keleo\KimaiInvoice\Invoice\RandomNumberGenerator'
