@@ -13,7 +13,7 @@ composer req invoice
 
 Done! No need for manual adjustments: the bundle is installed, activated and configured - _pretty neat, right_?!
 
-Behind the scenes, this makes use of a [Symfony flex recipe](https://github.com/kimai/recipes/tree/master/kevinpapst/kimai2-invoice/0.1), hosted at the offical [Kimai recipe repository](https://github.com/kimai/recipes).
+Behind the scenes, this command makes use of a Symfony flex [recipe](https://github.com/kimai/recipes/tree/master/kevinpapst/kimai2-invoice/0.1), hosted at the offical [Kimai recipes repository](https://github.com/kimai/recipes).
 
 ## Installation via Composer (classical)
 
